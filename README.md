@@ -1,5 +1,4 @@
 #extractor.py
-===
 Now only support for .zip,rar and .7z files.
 ##Installation&Prerequisite
 ###For .zip
